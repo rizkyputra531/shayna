@@ -1186,7 +1186,7 @@ ol {
 
 .product-item .pi-pic img {
     min-width: 100%;
-    max-height: 400px;
+    max-height: 350px;
 }
 
 .product-item .pi-pic .sale {
@@ -1538,7 +1538,7 @@ ol {
 }
 
 .footer-left .footer-logo img {
-    height: 30px !important;
+    height: 70px !important;
 }
 
 .footer-left .footer-logo a {
@@ -2104,7 +2104,7 @@ ol {
 
 .product-pic-zoom img {
     min-width: 100%;
-    height: 650px;
+    height: 500px;
 }
 
 .product-pic-zoom .zoom-icon {
